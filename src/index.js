@@ -8,7 +8,7 @@ let page = 1;
 let searchImagesInput = null;
 let beforeSearchImagesInput = null;
 let lightbox = null;
-
+//asdasdasd//
 const refs = {
   formEl: document.querySelector('.search-form'),
   galleryEl: document.querySelector('.gallery'),
